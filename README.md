@@ -21,7 +21,7 @@ Back_Button - a button to return to the previous page
 
 The transactions log will show single and joint accounts together in a single list.  
 
-Links to our individual Powerpoints:  
+Links to our individual Githubs:  
 Mikaela Cubon: https://github.com/M1K43L4  
 Dawn Dixon: https://github.com/md56n  
 Kari Jessip:
