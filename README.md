@@ -1,5 +1,5 @@
-## UMKC Hackathon Fall 2019
-# HRB1
+# UMKC Hackathon Fall 2019
+## HRB1
 
 Dawn Dixon, Mikeala Cubon, Kari Jessip
 
