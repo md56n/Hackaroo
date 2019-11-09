@@ -24,4 +24,4 @@ The transactions log will show single and joint accounts together in a single li
 Links to our individual Githubs:  
 Mikaela Cubon: https://github.com/M1K43L4  
 Dawn Dixon: https://github.com/md56n  
-Kari Jessip:
+
