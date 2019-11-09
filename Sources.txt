@@ -1,3 +1,7 @@
 Massachusetts Institute of Technology (2019) MIT App Inventor (2) [source code]. ai2.appinventor.mit.edu.
 
 Massachusetts Institute of Technology. “Displaying a List.” MIT App Inventor, ai2.appinventor.mit.edu/reference/other/displaylist.html.
+
+Massachusetts Institute of Technology. “TalkToMePart2: Shaking and User Input.” MIT App Inventor, appinventor.mit.edu/explore/sites/all/files/hourofcode/TalkToMePart2.pdf.
+
+“Lookup in Pairs .Csv File (I Need a Tip).” AI2 Inventor Forum News, ai2inventor.blogspot.com/2014/12/lookup-in-pairs-csv-file-i-need-tip.html.
